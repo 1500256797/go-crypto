@@ -36,7 +36,8 @@ cargo test → go test
     └── go.mod
 ```
 
-对比
+参考文档: https://go.dev/doc/tutorial/workspaces
+
 ![Rust和Go的Wokspace](./images/go-work.png)
 
 ## 单元测试
